@@ -1,0 +1,1 @@
+Kode jam digital solat menggunakan IR Remote, Arduino, dan 7-Segment. Editable in VS Code with extension PIO (Platform IO).
